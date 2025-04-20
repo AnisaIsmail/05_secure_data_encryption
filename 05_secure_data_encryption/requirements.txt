@@ -1,6 +1,4 @@
 streamlit
  crypto_utils
  auth
- cryptography.fernet
  Fernet
- base64
